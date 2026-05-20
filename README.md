@@ -13,5 +13,3 @@ Hey there! 👋<br>I'm a 3rd Year CS Engineering student at Amrita Vishwa Vidyap
 ![](https://github-readme-stats.shion.dev/api?username=MadhuriChowdary73&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MadhuriChowdary73&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MadhuriChowdary73&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Madhuri Chowdary) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhurichowdary2007@gmail.com) 
