@@ -77,13 +77,6 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MadhuriChowdary73&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuriChowdary73&theme=tokyonight&hide_border=false" width="49%"/>
-
-</p>
 
 <p align="center">
 
@@ -91,7 +84,7 @@
 
 </p>
 
----
+
 
 <details>
 <summary>📈 GitHub Activity Graph</summary>
