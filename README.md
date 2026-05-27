@@ -1,53 +1,58 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Madhuri!+✨;3rd+Year+CS+Engineering+Student;Passionate+about+Development+%26+Open+Source;Always+Learning+Something+New+🚀&center=true&size=30&duration=4000&color=00BFFF&font=Dancing%20Script&width=700&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Madhuri+Chowdary!+✨;CS+Engineering+Student+💻;Aspiring+Software+Developer+🚀;Continuously+Learning+and+Building+🌱&center=true&size=30&duration=4000&color=00BFFF&font=Dancing%20Script&width=700&height=80">
 </p>
 
 <h1 align="center">💫 Welcome to my GitHub Corner</h1>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/MadhuriChowdary)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:madhurichowdary2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-chowdary-a19328335/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:madhurichowdary2007@gmail.com)
 
 </div>
-
----
-
-<img align="right" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-# 👩‍💻 About Me
-
-Hey there! 👋  
-
-I'm a **3rd Year CS Engineering student** at **Amrita Vishwa Vidyapeetham** who loves building things with code 💻✨  
+<img align="right" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 ### 🚀 Passionate About
 - Software Development
 - Problem Solving & DSA
 - Open Source Contribution
 - Web Development
+- AI & Emerging Technologies
 
 ### 🌱 Currently
-- Learning new technologies
-- Building projects
+- Learning modern development tools
 - Exploring Open Source
-- Improving problem-solving skills
+- Building real-world projects
+- Improving DSA skills
+---
 
-### 💡 Fun Fact
-I enjoy turning ideas into real-world projects and collaborating with developers through hands-on learning 🚀
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/madhuri-chowdary-a19328335/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:madhurichowdary2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 🌐 Let's Connect & Collaborate
+# 🔥 Coding Profiles
 
-<p align="left">
-  <a href="https://linkedin.com/in/MadhuriChowdary">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white">
-  </a>
+<p align="center">
 
-  <a href="mailto:madhurichowdary2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white">
-  </a>
+<a href="https://www.geeksforgeeks.org/profile/madhuricho0rsi">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/madhurichowdary5">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -60,37 +65,11 @@ I enjoy turning ideas into real-world projects and collaborating with developers
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-# 🔥 Competitive Profiles
-
-<p align="center">
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white">
-</a>
-
-<a href="https://codeforces.com/">
-  <img src="https://img.shields.io/badge/Codeforces-445CC3?style=plastic&logo=codeforces&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white">
-</a>
-
-<a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
 </p>
 
@@ -115,7 +94,7 @@ I enjoy turning ideas into real-world projects and collaborating with developers
 ---
 
 <details>
-<summary>⚡ GitHub Activity Graph</summary>
+<summary>📈 GitHub Activity Graph</summary>
 
 <br>
 
@@ -123,17 +102,5 @@ I enjoy turning ideas into real-world projects and collaborating with developers
 
 </details>
 
----
-
-<details>
-<summary>🐍 GitHub Snake Animation</summary>
-
-<br>
-
-![snake gif](https://github.com/MadhuriChowdary73/MadhuriChowdary73/blob/output/github-snake-dark.svg)
-
-</details>
-
----
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
